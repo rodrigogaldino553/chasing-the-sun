@@ -1,0 +1,30 @@
+
+- História
+    Você é um buraco negro que acabou de surgir no meio da via lactea devido
+    experimentos em um aparelho conhecido como acelerador de partículas, localizado
+    em um planeta chamado por seus habitantes de "Terra".
+
+    Como um buraco negro você necessita engolir tudo que tem pela frente para garantir
+    sua existência
+
+- Elementos
+  - Player
+    - um buraco negro
+      - caracteristicas
+        - visual
+          se trata de uma esfera escura com contornos brilhantes
+        - poder
+          bicho apelão, tem nada que para esse bicho, absolutamente nada
+        - fraqueza
+          seria o espaço vazio, se o buraco negro ficar muito tempo sem engolir nada ele enfraquesse e morre
+  
+  - qualquer coisa que exista
+    - planetas
+    - estrelas
+    - cometas
+  - Vilão
+    - Sol
+
+- Objetivo
+    O jogador deve vagar pelo espaço e comer tudo que ver pela frente com o objetivo final de engolir o Sol
+    se o jogador chegar no sol sem tamanho suficiente para engolir o sol ele perde
